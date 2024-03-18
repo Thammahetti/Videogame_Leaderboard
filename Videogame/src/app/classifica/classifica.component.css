@@ -1,0 +1,51 @@
+@font-face {
+    font-family: fort;
+    src: url(../../assets/Fortnite.ttf);
+  }
+.as{
+   margin-top: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: transparent;
+
+}
+.we{
+    font-family: fort;
+    
+    font-size: 50px;
+    padding-bottom: 0px;
+}
+.wes{
+    
+    font-size: 25px;
+    padding-bottom: 0px;
+}
+
+.badge {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding: 4px 8px;
+    text-align: center;
+    border-radius: 5px;
+  }
+
+.mk-7{
+    background-color: rgb(47, 87, 124)
+}
+
+.pompa{
+    background-color: rgb(75, 75, 167);
+}
+
+.assalto{
+    background-color: rgb(45, 52, 77);
+}
+
+.caccia{
+    background-color: rgb(36, 0, 134);
+}
+.mitraglietta{
+    background-color: rgb(19, 158, 163);
+}
