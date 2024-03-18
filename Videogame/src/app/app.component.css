@@ -1,0 +1,33 @@
+@font-face {
+    font-family: fort;
+    src: url(../assets/Fortnite.ttf);
+  }
+
+.table-div{
+    background-image: url(../assets/Explosion_Frame-1.jpg);
+    height: 530px;
+    background-size: cover;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-position-y: -200px;
+}
+  .text-div{
+    
+    margin: 0px;
+    font-family: fort;
+    color: rgb(13, 238, 125);
+    font-size: 84px;
+  }
+
+  .grid-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  .inside-text{
+    margin: 0px;
+    font-family: fort;
+    color: rgb(202, 65, 202);
+    font-size: 124px;
+  }
